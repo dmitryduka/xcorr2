@@ -1,4 +1,4 @@
-# This is some bad comment
+# This is where xcorr tool lives
 
 xcorr2 checks how similar two images are and estimates a single global motion vector
 
